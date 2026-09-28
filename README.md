@@ -158,7 +158,6 @@ The analysis provides a descriptive view of Zomato's delivery and ordering patte
 * Order distribution can be compared across different city categories.
 * Different order categories contribute to the overall order volume.
 
-> **Note:** These findings are descriptive and are based only on the three-month dataset analyzed in this project. They should not be interpreted as causal relationships or representative of Zomato's overall business performance.
 
 
 # 📚 Dataset
